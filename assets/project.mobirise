@@ -1,0 +1,350 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.6.4",
+    "versionPublish": "3.12.1",
+    "name": "Portfolio Jeffrey Andréka",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#000000",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#000000",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "uniqCompNum": 2,
+    "google-analytics": "UA-99013333-1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/verzameling-pakjes-appelblauwzeegroen-2000x2828-62.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Jeffrey Andréka."
+        },
+        {
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#000000",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "right"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "index-msg-box5-0",
+          "_params": {
+            "imageSize": "68",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/hier-ben-ik-veilig-1400x1917.png",
+              "link": "",
+              "alt": "",
+              "title": "Haar",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Jeffrey Andréka",
+          "text": "portfolio &nbsp; &nbsp;tekenkunst, fotografie &amp; grafisch ontwerp",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/liggend-naakt-op-bed-2000x2967-800x1186.png",
+                "image": "@PROJECT_PATH@/assets/images/liggend-naakt-op-bed-2000x2967.png",
+                "caption": "liggend naakt",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kerkpilaren-vosselaar-2000x2910-800x1164.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kerkpilaren-vosselaar-2000x2910.jpg",
+                "caption": "kerk<br>",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/puntjes-en-lijnen-kerstmis-2000x2964-800x1185.png",
+                "image": "@PROJECT_PATH@/assets/images/puntjes-en-lijnen-kerstmis-2000x2964.png",
+                "caption": "puntjes en lijnen met kerstmis",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kerk-ekkergem-2-2000x3025-800x1210.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kerk-ekkergem-2-2000x3025.jpg",
+                "caption": "kerk",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/de-hoogteput-2000x1467-800x586.jpg",
+                "image": "@PROJECT_PATH@/assets/images/de-hoogteput-2000x1467.jpg",
+                "caption": "hoogteput",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cartons-watch-1-2000x1378-800x551.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cartons-watch-1-2000x1378.jpg",
+                "caption": "cartons watch 1",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/amai-klote-tekening-2000x1493-800x597.jpg",
+                "image": "@PROJECT_PATH@/assets/images/amai-klote-tekening-2000x1493.jpg",
+                "caption": "klote tekening",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/binnenkant-2000x1467-800x586.jpg",
+                "image": "@PROJECT_PATH@/assets/images/binnenkant-2000x1467.jpg",
+                "caption": "binnenkant",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kerk-ekkergem-2000x3107-800x1242.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kerk-ekkergem-2000x3107.jpg",
+                "caption": "kerk",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vegen-op-gsm-bewerkt-2000x2956-800x1182.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vegen-op-gsm-bewerkt-2000x2956.jpg",
+                "caption": "vegen",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/brt-2-2000x2800-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brt-2-2000x2800.jpg",
+                "caption": "brt 2",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/grindcore-royalty-2000x2873-800x1149.jpg",
+                "image": "@PROJECT_PATH@/assets/images/grindcore-royalty-2000x2873.jpg",
+                "caption": "grindcore royalty",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/discobar-aaft-ou-moil-2000x1477-800x590.jpg",
+                "image": "@PROJECT_PATH@/assets/images/discobar-aaft-ou-moil-2000x1477.jpg",
+                "caption": "discobar aaft ou moil asek ont drooien ben in axe",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kerk-1-2000x1506-800x602.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kerk-1-2000x1506.jpg",
+                "caption": "kerk",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maximum-and-immediate-retaliation-2000x1453-800x581.jpg",
+                "image": "@PROJECT_PATH@/assets/images/maximum-and-immediate-retaliation-2000x1453.jpg",
+                "caption": "maximum and immediate retaliation",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/console-2-2000x1698-800x679.jpg",
+                "image": "@PROJECT_PATH@/assets/images/console-2-2000x1698.jpg",
+                "caption": "console",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tekening-5-2000x1310-800x524.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tekening-5-2000x1310.jpg",
+                "caption": "jezus<br>",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/console-2-2000x1698-800x679.jpg",
+                "image": "@PROJECT_PATH@/assets/images/console-2-2000x1698.jpg",
+                "caption": "console",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": true,
+            "filter": true,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "index-gallery3-1",
+          "articleLayout": false,
+          "allItem": ""
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Website Creator Title",
+        "meta_descr": "Website Creator Description"
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/verzameling-pakjes-appelblauwzeegroen-2000x2828-62.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Jeffrey Andréka."
+        }
+      ]
+    }
+  }
+}
